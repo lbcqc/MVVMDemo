@@ -1,4 +1,4 @@
-# WpfApplication18
+# MVVMDemo
 WPF MVVM框架Demo搭建
 
 开发工具: vs2015
